@@ -1,3 +1,5 @@
 **/Builds
 **/JuceLibraryCode
 **/*.jucer
+**/.DS_Store
+.DS_Store
